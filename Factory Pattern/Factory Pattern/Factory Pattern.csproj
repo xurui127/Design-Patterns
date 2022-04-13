@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Factory_Pattern</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Other\" />
+    <Folder Include="PizzaStores\Abstruction\" />
+  </ItemGroup>
+
+</Project>
